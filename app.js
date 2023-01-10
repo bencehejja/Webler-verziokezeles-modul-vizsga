@@ -96,3 +96,4 @@ prevBtn.addEventListener("click", prevSong);
 audio.addEventListener("ended", nextSong);
 
 
+console.log("Az oldal sikeresen betoltodott.")

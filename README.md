@@ -14,6 +14,10 @@ git branch console
 
 git checkout console
 
-git add.
+git add .
 
-git commit -m "Console ag letrehozva.@
+git commit -m "Console ag letrehozva."
+
+git add .
+
+git commit -m "Console kiiras letrehozva."
