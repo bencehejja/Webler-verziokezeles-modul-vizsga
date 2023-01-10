@@ -21,3 +21,7 @@ git commit -m "Console ag letrehozva."
 git add .
 
 git commit -m "Console kiiras letrehozva."
+
+git add .
+
+git commit -m "Oldal hatterszine megvaltoztatva."
